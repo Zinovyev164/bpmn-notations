@@ -1,0 +1,5 @@
+* text=auto
+*.bpmn text eol=lf diff=xml
+*.xml  text eol=lf diff=xml
+*.png  binary
+*.pdf  binary
