@@ -9,7 +9,7 @@
       <bpmn:outgoing>Flow_0czrvll</bpmn:outgoing>
     </bpmn:task>
     <bpmn:sequenceFlow id="Flow_0lj55ue" sourceRef="StartEvent_1" targetRef="Activity_1gsxwqq" />
-    <bpmn:task id="Activity_17u8g4y" name="выбрать поставщика">
+    <bpmn:task id="Activity_17u8g4y" name="выбрать поставщика по тендеру">
       <bpmn:incoming>Flow_0czrvll</bpmn:incoming>
       <bpmn:outgoing>Flow_1i6qnfv</bpmn:outgoing>
     </bpmn:task>
